@@ -1,0 +1,4 @@
+﻿  MIPS Assembler.cpp
+C:\Users\looksoundfeel\source\repos\MIPS Assembler\MIPS Assembler.cpp(78,18): error C2065: 'j': undeclared identifier
+C:\Users\looksoundfeel\source\repos\MIPS Assembler\MIPS Assembler.cpp(79,32): error C2065: 'j': undeclared identifier
+C:\Users\looksoundfeel\source\repos\MIPS Assembler\MIPS Assembler.cpp(134,13): error C2065: 'j': undeclared identifier
